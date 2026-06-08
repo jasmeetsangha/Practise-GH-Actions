@@ -49,5 +49,5 @@ jobs:
       - name: Build project
         run: npm run build
       - name: Deploy
-        run: echo "Deployment in progress..."
+        run: echo "Deployment ready..."
 
